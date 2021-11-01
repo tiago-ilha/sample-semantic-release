@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/tiago-ilha/sample-semantic-release/compare/v1.1.1...v1.1.2) (2021-11-01)
+
+
+### Bug Fixes
+
+* teste ([a350731](https://github.com/tiago-ilha/sample-semantic-release/commit/a350731b3900680cddb60192dab50e923924e39b))
+
 ## [1.1.1](https://github.com/tiago-ilha/sample-semantic-release/compare/v1.1.0...v1.1.1) (2021-11-01)
 
 
